@@ -9,8 +9,8 @@ import lib2
 import lib3
 
 def main():
-    lib2.foo()
-    lib3.foo()
+    lib2.lib2_foo()
+    lib3.lib3_foo()
 
 if __name__ == '__main__':
     main()
